@@ -9,4 +9,4 @@ Este projeto faz parte de um dos modulos do **curso web morderno** da [COD3R](ht
   - Como utilizar o [babel](https://babeljs.io/) com o gulp, para utilizar novos recuros do ECMAScript e tornar o javascript compatível com browsers mais antigos.
   - Como utilizar o Typescript com o gulp.
   - Utilizar o SASS com o gulp e dar super poderes ao CSS.
-  - Criação do projeto SPA utizando diversas tasks para tornar o ambiente de desenvolvimento mais pratico com a utilização de tasks para minificar arquivos HTML, CSS, JS, utilizando o babel para arquivos Javascript, convertendo arquivos SASS para CSS e por fim um servidor com monitoramento dos arquivos e auto reload.
+  - Criação do projeto SPA utizando diversas tasks para tornar o ambiente de desenvolvimento mais pratico com a utilização de tasks para minificar arquivos HTML, CSS, JS, utilizando o babel para arquivos Javascript, convertendo arquivos SASS para CSS e por fim um servidor com auto reload.
